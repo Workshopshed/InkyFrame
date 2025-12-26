@@ -8,8 +8,10 @@ Writtten in Micropython for the Pimoroni inky-frame, a Pico 2 W powered E Ink®d
 Copy the .py files to the screen using a tool like Thony.
 If you want to sync the time to your wifi network once a day then create a new file secrets.py containing two lines
 
+```
 SSID = “YOUR WI-FI AP NAME”
 PASSWORD = “YOUR WI-FI PASSWORD
+```
 
 ## Images
 Images need to be 800 x 480 pixels and jpeg format, file extention jpg or jpeg
