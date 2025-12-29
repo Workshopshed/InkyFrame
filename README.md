@@ -1,5 +1,5 @@
 # InkyFrame
-Photo Rotation for the 7in InkyFrame
+A new photo every day for the 7in InkyFrame
 
 ## Details
 Writtten in Micropython for the Pimoroni inky-frame, a Pico 2 W powered E Ink®display with Wifi and RTC
